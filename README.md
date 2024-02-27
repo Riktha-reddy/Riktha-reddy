@@ -1,16 +1,19 @@
-### Hi there 👋
+Hie 👋🏻, <br>
+I'm **Riktha Reddy**, a 3rd year BTech student with a passion for **UI/UX Design and Graphic Design**👩🏻‍💻.<br> I'm constantly exploring ways to improve the user experience through thoughtful and creative design solutions.
 
-<!--
-**Riktha-reddy/Riktha-reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Outside of design, I enjoy getting lost in a **good novel📚** and expressing myself through **painting👩🏻‍🎨**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm excited to:<br>
+**Collaborate with other designers**: I believe in the power of teamwork and am eager to learn from and contribute to collaborative projects.<br>
+
+**Enhance my coding skills**: I'm looking to expand my skillset by learning the fundamentals of coding to better understand and implement design solutions.<br>
+
+**Explore career paths**: I'm open to exploring various design-related career options and would appreciate any advice or guidance from experienced professionals.<br>
+
+
+**I'm always looking to learn and grow as a designer.**
+Feel free to reach out and connect!<br>
+**📥**: helloriktha@gmail.com
+
