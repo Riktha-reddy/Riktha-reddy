@@ -3,7 +3,7 @@ I'm **Riktha Reddy**, a 3rd year BTech student with a passion for **UI/UX Design
 
 Outside of design, I enjoy getting lost in a **good novel📚** and expressing myself through **painting👩🏻‍🎨**.
 
-
+12
 
 I'm excited to:<br>
 **Collaborate with other designers**: I believe in the power of teamwork and am eager to learn from and contribute to collaborative projects.<br>
