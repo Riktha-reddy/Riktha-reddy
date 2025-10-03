@@ -1,5 +1,5 @@
 Hie 👋🏻, <br>
-I'm **Riktha Reddy**, a 3rd year BTech student with a passion for **UI/UX Design and Graphic Design**👩🏻‍💻.<br> I'm constantly exploring ways to improve the user experience through thoughtful and creative design solutions.
+I'm **Riktha Reddy**, a BTech Graduate with a passion for **UI/UX Design and Graphic Design**👩🏻‍💻.<br> I'm constantly exploring ways to improve the user experience through thoughtful and creative design solutions.
 
 Outside of design, I enjoy getting lost in a **good novel📚** and expressing myself through **painting👩🏻‍🎨**.
 
